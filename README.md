@@ -83,7 +83,7 @@ What makes this platform stand out is its **role-based approach**, offering tail
 2. Install **SQL Server** and configure a database.  
 3. Clone this repo:  
    ```bash
-   git clone https://github.com/Jay-Shah-92/wedlist.git
+   git clone https://github.com/jayshah-92/wedlist.git
 
 
 ##  Usage
@@ -141,4 +141,4 @@ For questions or collaboration:
 
 * **Author**: Jay Shah
 * **Email**: [jayshah92.ca@gmnail.com](mailto:jayshah92.ca@gmail.com)
-* **GitHub**: [Jay-Shah-92](https://github.com/Jay-Shah-92)
+* **GitHub**: [jayshah-92](https://github.com/jayshah-92)
